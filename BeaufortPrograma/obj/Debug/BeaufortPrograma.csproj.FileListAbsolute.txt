@@ -1,0 +1,7 @@
+C:\Users\Erick\source\repos\BeaufortPrograma\BeaufortPrograma\bin\Debug\BeaufortPrograma.exe.config
+C:\Users\Erick\source\repos\BeaufortPrograma\BeaufortPrograma\bin\Debug\BeaufortPrograma.exe
+C:\Users\Erick\source\repos\BeaufortPrograma\BeaufortPrograma\bin\Debug\BeaufortPrograma.pdb
+C:\Users\Erick\source\repos\BeaufortPrograma\BeaufortPrograma\obj\Debug\BeaufortPrograma.csprojAssemblyReference.cache
+C:\Users\Erick\source\repos\BeaufortPrograma\BeaufortPrograma\obj\Debug\BeaufortPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\BeaufortPrograma\BeaufortPrograma\obj\Debug\BeaufortPrograma.exe
+C:\Users\Erick\source\repos\BeaufortPrograma\BeaufortPrograma\obj\Debug\BeaufortPrograma.pdb
